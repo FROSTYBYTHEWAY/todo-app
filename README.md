@@ -18,6 +18,7 @@
 
 ```bash
 python todo.py
+```
 
 🛠 Технологии
 
